@@ -1,0 +1,16 @@
+{
+	"sqltools.connections": [
+		{
+			"mssqlOptions": {
+				"appName": "SQLTools",
+				"useUTC": true,
+				"encrypt": true
+			},
+			"previewLimit": 50,
+			"server": "localhost",
+			"driver": "MSSQL",
+			"connectString": "Server=localhost;Database=EComSS;User Id=sa;Password=SqlPassword123;Trusted_Connection=False;Integrated Security=False;TrustServerCertificate=True",
+			"name": "ecomm"
+		}
+	]
+}
